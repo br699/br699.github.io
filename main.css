@@ -1,0 +1,79 @@
+
+
+
+
+/* reset css */
+body{
+    background-color: #cccccc;
+    font-family: "Open Sans", sans-serif;
+    font-size: 16px;
+    color: #000000; 
+}
+
+h1{
+
+ padding-bottom: 10px;
+ font-size: 36px;
+ font-weight: normal;
+
+
+ h2[
+
+ padding-bottom: 10px;
+ font-size: 34px;
+ font-weight: normal;
+
+
+ h3{
+    
+ padding-bottom: 10px;
+ font-size: 32px;
+ font-weight: normal;
+
+
+
+
+nav a:hover,  nav  a:active{
+     background color:  #333;
+
+
+
+
+
+
+div#container{
+    background-color:#ffffff;
+    width: 1200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+header-{
+    background-color: palevioletred;
+
+}
+
+nav-{
+   background-color: paleturquoise;
+
+}
+
+main{
+    color:  #f0f;
+
+{}
+aside{
+    background-color: palegoldenrod;
+    flex:  1. 1 30%;
+    padding:  10px;
+
+
+
+footer{
+   background-color: palegreen
+   flex:  1 0 100%;
+   padding:  10px;
+
+
